@@ -54,7 +54,7 @@ $ python -m pip install pycryptodome
 * Note : If you are in Kali or Any Other Linux, then type `python3` instead of `python`
 
 # Running crypt3r
-$ python crypter 
+$ python crypter.py 
 ```
 
 ## Scan Result
